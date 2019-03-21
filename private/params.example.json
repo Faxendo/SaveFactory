@@ -1,0 +1,17 @@
+{
+    "DiscordClientId": "",
+    "DiscordClientSecret": "",
+    "DiscordBotToken": "",
+
+    "DiscordApiUrl": "",
+    "DiscordAuthUrl": "",
+    "DiscordReturnUrl": "",
+
+    "DiscordGuildId": "",
+    "DiscordSatisfactoryRoleId": "",
+    "DiscordChannelId": "",
+
+    "SessionSecret": "",
+
+    "AWSBucketName": ""
+}

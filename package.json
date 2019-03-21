@@ -1,0 +1,29 @@
+{
+  "name": "savefactory",
+  "version": "1.0.0",
+  "description": "SaveFactory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faxendo/SaveFactory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faxendo/SaveFactory/issues"
+  },
+  "homepage": "https://github.com/Faxendo/SaveFactory#readme",
+  "dependencies": {
+    "aws-sdk": "^2.424.0",
+    "body-parser": "^1.18.3",
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "nedb": "^1.8.0",
+    "request": "^2.88.0",
+    "socket.io": "^2.2.0"
+  }
+}
